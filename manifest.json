@@ -5,7 +5,7 @@
       {
         "chipFamily": "ESP32",
         "parts": [
-          { "path": "https://raw.githubusercontent.com/bedirhansgrc/download/main/custom-firmware.bin", "offset": 0 }
+          { "path": "https://raw.githubusercontent.com/bedirhansgrc/download/main/labkit_arduino_demo.ino.bin", "offset": 0 }
         ]
       }
     ]
