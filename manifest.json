@@ -1,6 +1,6 @@
 {
     "name": "Lab-Kit-Firmware",
-    "version": "1.2",
+    "version": "1.3",
     "builds": [
       {
         "chipFamily": "ESP32",
